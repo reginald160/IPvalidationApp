@@ -1,0 +1,18 @@
+.container{
+	margin-top: 150px;
+	margin-right: 500px;
+}
+
+
+form{
+	height: 300px;
+	width: 400px;
+	position: center;
+	border: 3px solid black;
+	border-radius:20px;
+
+}
+ .textInput{
+ padding-right: 10px;
+ 	border-radius: 10px;
+ }
